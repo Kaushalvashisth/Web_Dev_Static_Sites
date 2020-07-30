@@ -1,0 +1,26 @@
+ .jumbotron {
+ 	color:#2c3e50;	
+ 	background: #ecf0f1;
+ }
+.navbar-dark .navbar-nav .nav-link {
+    color: #f8f9fa;
+}
+ body{
+ 	padding-top: 90px;
+ }
+ .img-thumbnail{
+ 	border: 2px solid #bdc3c7;
+ }
+ .abt{
+ 	background-color:#ebecf5;
+ 	margin-top: 90px;
+ 	padding-top: 30px;
+ }
+ #unsplash{
+ 	text-align: center;
+ 	/*margin-top: 100px;*/
+ }
+.i2{
+	margin-top: 50px;
+	margin-bottom: 30px;
+}
