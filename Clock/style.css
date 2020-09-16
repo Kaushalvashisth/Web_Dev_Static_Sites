@@ -5,7 +5,7 @@
   font-family: Gothom Rounded, sans-serif;
 }
 body {
-  background-color: crimson;
+  background-color: #bfdcae;
   display: flex;
   justify-content: center;
   align-items: center;
@@ -16,6 +16,7 @@ body {
   font-family: "Dancing Script", cursive;
   margin-right: 5%;
   letter-spacing: 1px;
+  color: #206a5d;
 }
 @media only screen and (max-width: 700px) {
   .heading {
@@ -23,15 +24,17 @@ body {
     top: 50px;
   }
 }
+/* clock head */
 .clock {
   height: 300px;
   width: 300px;
   background-color: whitesmoke;
   border-radius: 50%;
   position: relative;
-  border: 5px solid black;
-  box-shadow: 10px;
+  border: 15px solid #206a5d;
+  box-shadow: 100px 1000px #bfdcae;
 }
+/* clock tails */
 .clock .number {
   /* --rotation is a variable */
   --rotation: 0;
@@ -117,11 +120,11 @@ body {
   /* --rotation: 120; */
   width: 7px;
   height: 38%;
-  background-color: black;
+  background-color: #81b214;
 }
 .clock .hand.hour {
   /* --rotation: 30; */
   width: 10px;
   height: 32%;
-  background-color: black;
+  background-color: #81b214;
 }
