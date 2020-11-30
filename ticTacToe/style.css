@@ -1,0 +1,23 @@
+h1.heading {
+  color: brown;
+  align-items: center;
+  text-align: center;
+}
+.board {
+  margin: auto;
+  width: 31rem;
+  height: 30rem;
+  display: flex;
+  flex-wrap: wrap;
+  box-sizing: border-box;
+}
+.board .boardBox {
+  border: 2px solid rgba(56, 12, 12, 0.952);
+  height: 10rem;
+  width: 10rem;
+  text-align: center;
+  font-size: 8rem;
+}
+.board .boardBox:hover {
+  background-color: rgb(222, 243, 213);
+}

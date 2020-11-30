@@ -8,10 +8,11 @@ Click on the Links below to explore :
 2. [ Drum Roll Fun](https://kaushalvashisth.github.io/Web_Dev_Static_Sites/Drum%20Kit%20Starting%20Files/)
 3. [ Dicee Roll Fun](https://kaushalvashisth.github.io/Web_Dev_Static_Sites/Dicee%20roll/)
 4. [ Wildlife image gallery](https://kaushalvashisth.github.io/Web_Dev_Static_Sites/image%20gallery/)
-5. [Clock Design](https://kaushalvashisth.github.io/Web_Dev_Static_Sites/Clock/)
-6. [Beautifull Bootstrap Cards](https://kaushalvashisth.github.io/Web_Dev_Static_Sites/bootstrapCards/)
-7. [CSS Stylish FlexBox](https://kaushalvashisth.github.io/Web_Dev_Static_Sites/stylishBox/)
-8. [Simple Aritcle Design](https://kaushalvashisth.github.io/Web_Dev_Static_Sites/Article/)
+5. [SIMPLE TIC TAC TOE](https://kaushalvashisth.github.io/Web_Dev_Static_Sites/ticTacToe/)
+6. [Clock Design](https://kaushalvashisth.github.io/Web_Dev_Static_Sites/Clock/)
+7. [Beautifull Bootstrap Cards](https://kaushalvashisth.github.io/Web_Dev_Static_Sites/bootstrapCards/)
+8. [CSS Stylish FlexBox](https://kaushalvashisth.github.io/Web_Dev_Static_Sites/stylishBox/)
+9. [Simple Aritcle Design](https://kaushalvashisth.github.io/Web_Dev_Static_Sites/Article/)
 
 # Get Started :
 
